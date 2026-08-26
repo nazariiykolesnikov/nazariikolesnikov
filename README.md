@@ -9,7 +9,7 @@ My major, Economic Cybernetics, is the science of systems management. It has tau
 
 My strengths:<br/>
 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Analytical thinking: The ability to dive deep into a subject area and filter out noise from the data.<br/>
-&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Flexible tech stack: Python (Pandas, Polars, TensorFlow), R, SQL, Power BI.<br/>
+&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Flexible tech stack: Python, R, SQL, Power BI, <br/>
 &nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;Product-oriented approach: Understanding the full data lifecycle: from collection and backend development to final reports.<br/>
 
 I’d be excited to join an ambitious team or get involved in an interesting project in the field of data analysis or ML.
